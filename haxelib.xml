@@ -1,0 +1,7 @@
+<project name="messaginghx" url="https://github.com/Sunjammer/messaginghx" license="Public">
+    <user name="Decept404"/>
+	<tag v="cross"/>
+	<tag v="events"/>
+    <description>Simple static event broadcasting and messaging for Haxe</description>
+    <version name="1">Initial version</version>
+</project>
