@@ -1,0 +1,11 @@
+{
+	"name": "messaginghx",
+	"url": "https://github.com/Sunjammer/messaginghx",
+	"license": "Public",
+	"tags": [],
+	"description": "Simple static event broadcasting and messaging for Haxe.",
+	"version": "1.0.0",
+	"releasenote": "Initial version",
+	"contributors": [ "Sunjammer" ],
+	"dependencies": {}
+}
